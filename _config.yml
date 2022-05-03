@@ -12,12 +12,12 @@ readme_index:
   remove_originals: true
   with_frontmatter: true
 
-title: Am I Better Than Duy?
-description: Primer Spec is a Jekyll theme for GitHub Pages
+title: Setup Tutorial
+# description: Intro to Programming
 
-primerSpec:
-  sitemap:
-    label: Docs & Demos
+# primerSpec:
+  # sitemap:
+    # label: Docs & Demos
 # defaultCodeblockVariant: no-line-numbers
 
 sass:
